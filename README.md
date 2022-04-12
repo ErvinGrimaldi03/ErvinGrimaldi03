@@ -1,9 +1,8 @@
-<h1 align="center"> Ervin Grimaldi </h1>
+<h1 align="center"> Ervin Grimaldi </h1> 
 
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+ <h3>My name is Ervin, I'm a Computer Science Engineering student at UCI^'25^. I'm from Sicily, Italy, but currently live in Irivne, CA.   </h3>
+There are many technologies that excites out there, such as blockchain, Deep Learning, quantum computing, robotics and much more! I'm inspired to become a software engineer with main area of interest in Computer Vision. 
+I see Computer Science as a Tool to realize incredible products rather than well defined box. I believe that creativity is the engine for the world, and for this we should never stop it!
 
-
-My name is Ervin, I'm a Computer Science Engineering student at UCI^'25^. I'm from Sicily, Italy, but currently live in Irivne, CA.
-
-
+> If you want to know more about me, contact me on *linkedin* [linkedin](https://www.linkedin.com/in/ervin-grimaldi-87280b1a9/), or get to know my [past work](https://docs.google.com/document/d/1MDhTNu2M9sx38jomWsOTFFjHEYqMurURZPlPXgSduf0/edit?usp=sharing)
