@@ -1,7 +1,7 @@
 <h1 align="center"> Ervin Grimaldi </h1> 
 
 
- <h3>My name is Ervin, I'm a Computer Science Engineering student at UCI^'25^. I'm from Sicily, Italy, but currently live in Irivne, CA.   </h3>
+ <h3>My name is Ervin, I'm a Computer Science Engineering student at UCI, class of '25. I was born in Gela, Italy, but I moved in NYC at the end of 2019. I currently live in Irvine, CA   </h3>
 There are many technologies that excites out there, such as blockchain, Deep Learning, quantum computing, robotics and much more! I'm inspired to become a software engineer with main area of interest in Computer Vision. 
 I see Computer Science as a Tool to realize incredible products rather than well defined box. I believe that creativity is the engine for the world, and for this we should never stop it!
 
